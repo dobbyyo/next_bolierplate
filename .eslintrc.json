@@ -12,7 +12,8 @@
     "airbnb",
     "airbnb/hooks",
     "airbnb-typescript",
-    "prettier"
+    "prettier",
+    "plugin:storybook/recommended"
   ],
   "overrides": [],
   "parser": "@typescript-eslint/parser",
